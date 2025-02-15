@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": "Xona 1",
+    "capacity": 2,
+    "booked": [
+
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Xona 2",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 3,
+    "name": "Xona 3",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 4,
+    "name": "Xona 4",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 5,
+    "name": "Xona 5",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 6,
+    "name": "Xona 6",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 7,
+    "name": "Xona 7",
+    "capacity": 2,
+    "booked": [
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Xona 8",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 9,
+    "name": "Xona 9",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 10,
+    "name": "Xona 10",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 11,
+    "name": "Xona 11",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 12,
+    "name": "Xona 12",
+    "capacity": 2,
+    "booked": []
+  },
+  {
+    "id": 13,
+    "name": "Xona 13",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 14,
+    "name": "Xona 14",
+    "capacity": 4,
+    "booked": []
+  },
+  {
+    "id": 15,
+    "name": "Xona 15",
+    "capacity": 4,
+    "booked": []
+  }
+]
