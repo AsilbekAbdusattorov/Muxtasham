@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node server/server.js",
-    "dev": "concurrently \"vite\" \"node server/server.js\"",
+    "start": "node src/server/server.js",
+    "dev": "concurrently \"vite\" \"node src/server/server.js\"",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
